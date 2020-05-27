@@ -1,6 +1,11 @@
 # TKD_KWM-HD-Texture-Pack
 High-resolution textures for Toukiden Kiwami (NPJH-50878), Support for all game version (v1.00-1.07).
 
+Special Thanks.
+
+- "Ace-San" for Village texture and partial translation GUI texture.
+- "セファロン 零" for HD Oni texture and some equipment / NPC texture.
+
 Screenshots.
 
 <a href="https://ibb.co/j86hGxt"><img src="https://i.ibb.co/mRDJtYp/NPJH50878-00003.jpg" alt="NPJH50878-00003" border="0"></a>
