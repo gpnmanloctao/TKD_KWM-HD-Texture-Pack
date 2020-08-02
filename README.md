@@ -1,10 +1,13 @@
 # TKD_KWM-HD-Texture-Pack
-High-resolution textures for Toukiden Kiwami (NPJH-50878), Support for all game version (v1.00-1.07) also English patched v2.0 & v3.0 too.
+High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all game version (JAP v1.00-1.07) also English patched v2.0 (JAP v1.00) and v3.0 (JAP v1.07) too. :)
 
 Special Thanks.
 
-- "Ace-San" for Village texture and partial translation GUI texture.
-- "セファロン 零" for HD Oni texture and some equipment / NPC texture.
+- "Ace-San" for House/Village/Command center texture and All partial translation GUI textures.
+- "セファロン 零" for All HD Large Oni and some Equipmen/NPC textures.
+- "Saramagrean" for AI upscaled textures.
+
+==================================================================
 
 Screenshots.
 
@@ -26,6 +29,19 @@ Screenshots.
 <a href="https://ibb.co/6Pd5TKG"><img src="https://i.ibb.co/T8C57QJ/NPJH50878-00024.jpg" alt="NPJH50878-00024" border="0"></a>
 <a href="https://ibb.co/zGPzbRn"><img src="https://i.ibb.co/XSFqps2/NPJH50878-00025.jpg" alt="NPJH50878-00025" border="0"></a>
 <a href="https://ibb.co/mJfJ2gt"><img src="https://i.ibb.co/1ZFZPjK/NPJH50878-00030.jpg" alt="NPJH50878-00007" border="0"></a>
+
+==================================================================
+
+How to download file from Github on mobile?
+
+It's recommended to download by Termux app (from Play Store). 
+- Step 1 : using command "pkg install git"
+- Step 2 : "termux-setup-storage"
+- Step 3 : "cd ~/storage/shared/"
+- Step 4 : "git clone https://github.com/Saramagrean/TKD_KWM-HD-Texture-Pack.git"
+- Step 5 : waiting donwload 100%
+
+==================================================================
 
 Review.
 https://youtu.be/gX_8SznN00k
