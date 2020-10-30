@@ -1,11 +1,12 @@
 # TKD_KWM-HD-Texture-Pack
-High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all game version (JAP v1.00-1.07) also English patched v2.0 (JAP v1.00) and v3.0 (JAP v1.07) too. :)
+High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all game version (JAP v1.00-1.07) also English patched v2.0 (based-on JAP v1.00) and v3.0 (based-on JAP v1.07) too. :)
 
 Special Thanks.
 
-- "Ace-San" for House/Village/Command center texture and All partial translation GUI textures.
+- "Ace-San" for House/Village in Spring/Command center texture and All partial translation GUI textures.
 - "セファロン 零" for All HD Large Oni and some Equipmen/NPC textures.
-- "Saramagrean" for AI upscaled textures.
+- "Saramagrean" for New font and AI upscaled textures.
+- "Amita Alisabezth" for Full set Armor & Weapon, Tenko, Village in Fall and Mini-map textures.
 
 ==================================================================
 
