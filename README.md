@@ -1,9 +1,9 @@
 # TKD_KWM-HD-Texture-Pack
 High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all game version (JAP v1.00-1.07) also English patched v2.0 (based-on JAP v1.00) and v3.0 (based-on JAP v1.07) too. :)
 
-Progress: Almost complete 80%
-Latest update: 01/11/2020
-Total size: 2 GB. (7,790 files)
+- Progress: Almost complete 80%
+- Latest update: 01/11/2020
+- Total size: 2 GB. (7,790 files)
 
 
 
