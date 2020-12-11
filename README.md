@@ -5,12 +5,38 @@ High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all g
 - Latest update: 01/11/2020
 - Total size: 2 GB. (7,790 files)
 
+Info.
+
+HD:
+- Village in spring and fall.
+- All Monsters. (Large Oni)
+- All Armors and Weapons
+- NPC models.
+- Mini-map.
+- Font.
+
+Upscaling:
+- All Stages.
+- All Monsters (Small Oni)
+- NPC portraits and cut-ins (not complete yet)
+- All Mitama cards.
+
+Partial translation to English:
+- Main menu.
+- All HUD/GUI.
+- Tutorial guides.
+- Fox (Tenko), Result missions screen.
+- etc.
+
 Special Thanks.
 
 - "Ace-San" for House/Village in Spring/Command center texture and All partial translation HUD/GUI textures.
 - "セファロン 零" for All HD Large Oni and some Equipmen/NPC textures.
 - "Saramagrean" for New font and AI upscaled textures.
 - "Amita Alisabezth" for Full set Armor & Weapon, Tenko, Village in Fall and Mini-map textures.
+
+PPSSPP - Texture Pack thread:
+https://forums.ppsspp.org/showthread.php?tid=27014
 
 ==========================================================
 
@@ -67,7 +93,6 @@ Download Lite version: https://drive.google.com/file/d/1BenO5Cl8WcjdYQftBbKgonkG
 
 ==========================================================
 
-PPSSPP - Texture Pack thread.
-https://forums.ppsspp.org/showthread.php?tid=27014
+Download English Patch v3.0: ...Soon...
 
 
