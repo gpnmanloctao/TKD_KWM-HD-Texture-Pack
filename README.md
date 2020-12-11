@@ -5,8 +5,6 @@ High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all g
 - Latest update: 01/11/2020
 - Total size: 2 GB. (7,790 files)
 
-
-
 Special Thanks.
 
 - "Ace-San" for House/Village in Spring/Command center texture and All partial translation HUD/GUI textures.
@@ -14,7 +12,7 @@ Special Thanks.
 - "Saramagrean" for New font and AI upscaled textures.
 - "Amita Alisabezth" for Full set Armor & Weapon, Tenko, Village in Fall and Mini-map textures.
 
-==================================================================
+==========================================================
 
 Screenshots.
 
@@ -40,7 +38,7 @@ Screenshots.
 Video review. (old version of texture pack)
 https://youtu.be/gX_8SznN00k
 
-==================================================================
+==========================================================
 
 How to download files on huge repo from Github on mobile?
 
@@ -51,7 +49,7 @@ It's recommended to download by "Termux" app (from Play Store).
 - Step 4 : "git clone https://github.com/Saramagrean/TKD_KWM-HD-Texture-Pack.git"
 - Step 5 : waiting donwload 100%
 
-==================================================================
+==========================================================
 
 If anyone want to use only HUD/GUI/Menu/etc. translate to English and don't want to donwload texture pack full version, can be download with lite version to use instead.
 
@@ -62,9 +60,14 @@ What are the texture packs in the "Lite" version?
 - Tutorial guides are all translated in English.
 - Fox menu screen (Tenko) translated in English
 - Mini-map is more sharper (there should still be some missing).
-- Fonts are more sharper throughout the game.
+- All Fonts are more sharper.
 - Add installation instructions through PPSSPP directly.
 
 Download Lite version: https://drive.google.com/file/d/1BenO5Cl8WcjdYQftBbKgonkGBsKfmmnu/view?usp=drivesdk
+
+==========================================================
+
+PPSSPP - Texture Pack thread.
+https://forums.ppsspp.org/showthread.php?tid=27014
 
 
