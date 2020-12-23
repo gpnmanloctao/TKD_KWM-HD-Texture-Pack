@@ -93,6 +93,6 @@ Download Lite version: https://drive.google.com/file/d/1BenO5Cl8WcjdYQftBbKgonkG
 
 ==========================================================
 
-Download English Patch v3.0: ...Soon...
+Download English Patch v3.0: https://www.mediafire.com/file/xpannhuy1x0wt2v/TKD-KWM-ENG-PATCH-v3.0.7z/file
 
 
