@@ -80,6 +80,6 @@ What are the texture packs in the "Lite version"?
 
 ==========================================================
 
-• Download English Patch v3.0: https://www.mediafire.com/file/xpannhuy1x0wt2v/TKD-KWM-ENG-PATCH-v3.0.7z/file
+• Download English Patch v3.0 (xdelta): https://www.mediafire.com/file/xpannhuy1x0wt2v/TKD-KWM-ENG-PATCH-v3.0.7z/file
 
 
