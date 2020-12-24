@@ -3,7 +3,7 @@ High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all g
 
 - Progress: Almost complete 80%
 - Latest update: 25/12/2020
-- Total size: 2 GB. (7,860 files)
+- Total size: 2 GB. (7,806 files)
 
 ••• Info. •••
 
@@ -55,13 +55,15 @@ https://youtu.be/gX_8SznN00k
 
 How to download texture pack "Full version" from Github?
 
-It's recommended to download by "Termux" app (from Play Store). 
+On Android it's recommended to download by "Termux" app (from Play Store). 
 - Step 1 : using command "pkg install git"
 - Step 2 : "pkg upgrade"
 - Step 3 : "termux-setup-storage"
 - Step 4 : "cd ~/storage/shared/"
 - Step 5 : "git clone https://github.com/Saramagrean/TKD_KWM-HD-Texture-Pack.git"
 - Step 6 : waiting donwload 100%
+
+On Windows use "Git" or "Github desktop" for download.
 
 ================================================
 
