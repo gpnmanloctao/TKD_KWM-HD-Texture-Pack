@@ -2,8 +2,8 @@
 High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all game version (JAP v1.00-1.07) also English patched v2.0 (based-on JAP v1.00) and v3.0 (based-on JAP v1.07) too. :)
 
 - Progress: Almost complete 80%
-- Latest update: 01/11/2020
-- Total size: 2 GB. (7,790 files)
+- Latest update: 25/12/2020
+- Total size: 2 GB. (7,860 files)
 
 ••• Info. •••
 
@@ -67,6 +67,8 @@ It's recommended to download by "Termux" app (from Play Store).
 
 If anyone want to use only HUD/GUI/Menu/etc. translate to English and don't want to donwload texture pack full version, can be download with "Lite version" to use instead.
 
+Latest update: 25/12/2020
+
 What are the texture packs in the "Lite version"?
 - Total size 220 MB.
 - English translation of the main menu page
@@ -76,9 +78,18 @@ What are the texture packs in the "Lite version"?
 - Mini-map is more sharper (there should still be some missing).
 - All Fonts are more sharper.
 
-• Download Lite version: https://drive.google.com/file/d/1BenO5Cl8WcjdYQftBbKgonkGBsKfmmnu/view?usp=drivesdk
+• Download Lite version: https://www.mediafire.com/file/mp6tzis7a6qzezt/NPJH50878_texture_lite_24122020.zip/file
 
 ==========================================================
+
+••• English Patch •••
+
+What Include Patch v3.0:
+- Based on Toukiden Kiwami v.1.07 (Japan)
+- Game has translated full. (Text in Encyclopedia & Letters can't translate because there are not scripts, but it is texture)
+- Port from PSV. (All scrpit 100%)
+- Added BGM in game info screen.
+- Improved all cutscene quality. (fix blur & dark & lag in some cutscene.)
 
 • Download English Patch v3.0 (xdelta): https://www.mediafire.com/file/xpannhuy1x0wt2v/TKD-KWM-ENG-PATCH-v3.0.7z/file
 
