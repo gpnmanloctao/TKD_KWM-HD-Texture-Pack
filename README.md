@@ -82,7 +82,7 @@ What are the texture packs in the "Lite version"?
 
 • Download Lite version: https://www.mediafire.com/file/mp6tzis7a6qzezt/NPJH50878_texture_lite_24122020.zip/file
 
-==========================================================
+================================================
 
 ••• English Patch •••
 
