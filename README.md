@@ -43,7 +43,7 @@ https://forums.ppsspp.org/showthread.php?tid=27014
 <a href="https://ibb.co/XWL0zjn"><img src="https://i.ibb.co/WH58cGr/NPJH50878-00012.jpg" alt="NPJH50878-00007" border="0"></a>
 <a href="https://ibb.co/gDcyVV9"><img src="https://i.ibb.co/30P1zzd/NPJH50878-00019.jpg" alt="NPJH50878-00019" border="0"></a>
 <a href="https://ibb.co/6Pd5TKG"><img src="https://i.ibb.co/T8C57QJ/NPJH50878-00024.jpg" alt="NPJH50878-00024" border="0"></a>
-<a href="https://ibb.co/zGPzbRn"><img src="https://i.ibb.co/XSFqps2/NPJH50878-00025.jpg" alt="NPJH50878-00025" border="0"></a>
+<a href="https://ibb.co/FJ9ZsXY"><img src="https://i.ibb.co/BjmW4G6/NPJH50878-00090.jpg" alt="NPJH50878-00090" border="0"></a>
 <a href="https://ibb.co/mJfJ2gt"><img src="https://i.ibb.co/1ZFZPjK/NPJH50878-00030.jpg" alt="NPJH50878-00007" border="0"></a>
 
 • Video review. (old version of texture pack):
