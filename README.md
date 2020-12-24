@@ -7,11 +7,11 @@ High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all g
 
 ••• Info. •••
 
-HD: Village in spring and fall, All Monsters. (Large Oni), All Armors and Weapons, NPC models, Mini-map & Font.
+[HD]: Village in spring and fall, All Monsters. (Large Oni), All Armors and Weapons, NPC models, Mini-map & Font.
 
-Upscaling: All Stages. All Monsters (Small Oni), NPC portraits and cut-ins (not complete yet), All Mitama cards.
+[Upscaling]: All Stages. All Monsters (Small Oni), NPC portraits and cut-ins (not complete yet), All Mitama cards.
 
-Partial translation to English: Main menu, All HUD/GUI, Tutorial guides, Fox (Tenko), Result missions screen etc.
+[Partial translation to English]: Main menu, All HUD/GUI, Tutorial guides, Fox (Tenko), Result missions screen etc.
 
 ••• Special Thanks. •••
 
