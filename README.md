@@ -1,46 +1,31 @@
-### TKD_KWM-HD-Texture-Pack ###
+# TKD_KWM-HD-Texture-Pack
 High-resolution textures for Toukiden Kiwami (NPJH-50878), Compatible with all game version (JAP v1.00-1.07) also English patched v2.0 (based-on JAP v1.00) and v3.0 (based-on JAP v1.07) too. :)
 
-• Progress: Almost complete 80%
-• Latest update: 01/11/2020
-• Total size: 2 GB. (7,790 files)
+- Progress: Almost complete 80%
+- Latest update: 01/11/2020
+- Total size: 2 GB. (7,790 files)
 
-• Info.
+••• Info. •••
 
-HD:
--- Village in spring and fall.
--- All Monsters. (Large Oni)
--- All Armors and Weapons
--- NPC models.
--- Mini-map.
--- Font.
+HD: Village in spring and fall, All Monsters. (Large Oni), All Armors and Weapons, NPC models, Mini-map & Font.
 
-Upscaling:
--- All Stages.
--- All Monsters (Small Oni)
--- NPC portraits and cut-ins (not complete yet)
--- All Mitama cards.
+Upscaling: All Stages. All Monsters (Small Oni), NPC portraits and cut-ins (not complete yet), All Mitama cards.
 
-Partial translation to English:
--- Main menu.
--- All HUD/GUI.
--- Tutorial guides.
--- Fox (Tenko), Result missions screen.
--- etc.
+Partial translation to English: Main menu, All HUD/GUI, Tutorial guides, Fox (Tenko), Result missions screen etc.
 
-• Special Thanks.
+••• Special Thanks. •••
 
--- "Ace-San" for House/Village in Spring/Command center texture and All partial translation HUD/GUI textures.
--- "セファロン 零" for All HD Large Oni and some Equipmen/NPC textures.
--- "Saramagrean" for New font and AI upscaled textures.
--- "Amita Alisabezth" for Full set Armor & Weapon, Tenko, Village in Fall and Mini-map textures.
+- "Ace-San" for House/Village in Spring/Command center texture and All partial translation HUD/GUI textures.
+- "セファロン 零" for All HD Large Oni and some Equipmen/NPC textures.
+- "Saramagrean" for New font and AI upscaled textures.
+- "Amita Alisabezth" for Full set Armor & Weapon, Tenko, Village in Fall and Mini-map textures.
 
 • PPSSPP - Texture Pack thread:
 https://forums.ppsspp.org/showthread.php?tid=27014
 
 ================================================
 
-• Screenshots.
+••• Screenshots. •••
 
 <a href="https://ibb.co/j86hGxt"><img src="https://i.ibb.co/mRDJtYp/NPJH50878-00003.jpg" alt="NPJH50878-00003" border="0"></a>
 <a href="https://ibb.co/fX7Y2c8"><img src="https://i.ibb.co/MgLDsX8/NPJH50878-00017.jpg" alt="NPJH50878-00017" border="0"></a>
@@ -61,22 +46,22 @@ https://forums.ppsspp.org/showthread.php?tid=27014
 <a href="https://ibb.co/zGPzbRn"><img src="https://i.ibb.co/XSFqps2/NPJH50878-00025.jpg" alt="NPJH50878-00025" border="0"></a>
 <a href="https://ibb.co/mJfJ2gt"><img src="https://i.ibb.co/1ZFZPjK/NPJH50878-00030.jpg" alt="NPJH50878-00007" border="0"></a>
 
-• Video review. (old version of texture pack)
+• Video review. (old version of texture pack):
 https://youtu.be/gX_8SznN00k
 
 ================================================
 
-• Download:
+••• Download: •••
 
 How to download texture pack "Full version" from Github?
 
 It's recommended to download by "Termux" app (from Play Store). 
--- Step 1 : using command "pkg install git"
--- Step 2 : "pkg upgrade"
--- Step 3 : "termux-setup-storage"
--- Step 4 : "cd ~/storage/shared/"
--- Step 5 : "git clone https://github.com/Saramagrean/TKD_KWM-HD-Texture-Pack.git"
--- Step 6 : waiting donwload 100%
+- Step 1 : using command "pkg install git"
+- Step 2 : "pkg upgrade"
+- Step 3 : "termux-setup-storage"
+- Step 4 : "cd ~/storage/shared/"
+- Step 5 : "git clone https://github.com/Saramagrean/TKD_KWM-HD-Texture-Pack.git"
+- Step 6 : waiting donwload 100%
 
 ================================================
 
@@ -91,10 +76,10 @@ What are the texture packs in the "Lite version"?
 - Mini-map is more sharper (there should still be some missing).
 - All Fonts are more sharper.
 
-Download Lite version: https://drive.google.com/file/d/1BenO5Cl8WcjdYQftBbKgonkGBsKfmmnu/view?usp=drivesdk
+• Download Lite version: https://drive.google.com/file/d/1BenO5Cl8WcjdYQftBbKgonkGBsKfmmnu/view?usp=drivesdk
 
 ==========================================================
 
-Download English Patch v3.0: https://www.mediafire.com/file/xpannhuy1x0wt2v/TKD-KWM-ENG-PATCH-v3.0.7z/file
+• Download English Patch v3.0: https://www.mediafire.com/file/xpannhuy1x0wt2v/TKD-KWM-ENG-PATCH-v3.0.7z/file
 
 
