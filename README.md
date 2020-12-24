@@ -72,7 +72,7 @@ If anyone want to use only HUD/GUI/Menu/etc. translate to English and don't want
 Latest update: 25/12/2020
 
 What are the texture packs in the "Lite version"?
-- Total size 220 MB.
+- Total size 250 MB.
 - English translation of the main menu page
 - HUD/GUI all translated to English (if I don't miss it)
 - Tutorial guides are all translated in English.
