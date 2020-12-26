@@ -65,11 +65,13 @@ On Android it's recommended to download by "Termux" app (from Play Store).
 
 On Windows use "Git" or "Github desktop" for download.
 
+or direct link...
+
+• Download Full version (25/12/2020): https://bit.ly/37PUbzf
+
 ================================================
 
 If anyone want to use only HUD/GUI/Menu/etc. translate to English and don't want to donwload texture pack full version, can be download with "Lite version" to use instead.
-
-Latest update: 25/12/2020
 
 What are the texture packs in the "Lite version"?
 - Total size 250 MB.
@@ -80,19 +82,27 @@ What are the texture packs in the "Lite version"?
 - Mini-map is more sharper (there should still be some missing).
 - All Fonts are more sharper.
 
-• Download Lite version: https://www.mediafire.com/file/mp6tzis7a6qzezt/NPJH50878_texture_lite_24122020.zip/file
+• Download Lite version (25/12/2020): https://bit.ly/37M5Zme
 
 ================================================
 
 ••• English Patch •••
 
-What Include Patch v3.0:
+*What Include Patch v3.0:
 - Based on Toukiden Kiwami v.1.07 (Japan)
 - Game has translated full. (Text in Encyclopedia & Letters can't translate because there are not scripts, but it is texture)
 - Port from PSV. (All scrpit 100%)
 - Added BGM in game info screen.
 - Improved all cutscene quality. (fix blur & dark & lag in some cutscene.)
 
-• Download English Patch v3.0 (xdelta): https://www.mediafire.com/file/xpannhuy1x0wt2v/TKD-KWM-ENG-PATCH-v3.0.7z/file
+Known Bugs:
+
+- On story mode, choice text has hidden. (but u can press skip it - see pics)
+<a href="https://ibb.co/fNJTFyH"><img src="https://i.ibb.co/WzCR5Mf/Bug0-1.png" alt="Bug0-1" border="0"></a>
+<a href="https://ibb.co/z5b6Xrd"><img src="https://i.ibb.co/8B2Yr0k/Bug0-2.png" alt="Bug0-2" border="0"></a>
+- The circle fire when mitama talking has hidden too.
+- Some overflow text still due I still test all game.
+
+• Download English Patch v3.0 (xdelta): https://bit.ly/3aIcxnH
 
 
