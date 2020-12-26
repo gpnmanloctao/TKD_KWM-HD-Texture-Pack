@@ -101,6 +101,8 @@ Known Bugs:
 <a href="https://ibb.co/fNJTFyH"><img src="https://i.ibb.co/WzCR5Mf/Bug0-1.png" alt="Bug0-1" border="0"></a>
 <a href="https://ibb.co/z5b6Xrd"><img src="https://i.ibb.co/8B2Yr0k/Bug0-2.png" alt="Bug0-2" border="0"></a>
 - The circle fire when mitama talking has hidden too.
+<a href="https://ibb.co/hFv23sH"><img src="https://i.ibb.co/MkLPFnp/NPJH50878-00093.png" alt="NPJH50878-00093" border="0"></a>
+<a href="https://ibb.co/Wz3kgtH"><img src="https://i.ibb.co/R6S3zyg/NPJH50878-00092.png" alt="NPJH50878-00092" border="0"></a>
 - Some overflow text still due I still test all game.
 
 • Download English Patch v3.0 (xdelta): https://bit.ly/3aIcxnH
