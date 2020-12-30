@@ -69,8 +69,6 @@ or direct link...
 
 • Download Full version (25/12/2020): https://bit.ly/37PUbzf
 
-================================================
-
 If anyone want to use only HUD/GUI/Menu/etc. translate to English and don't want to donwload texture pack full version, can be download with "Lite version" to use instead.
 
 What are the texture packs in the "Lite version"?
@@ -87,6 +85,8 @@ What are the texture packs in the "Lite version"?
 ================================================
 
 ••• English Patch •••
+
+By HoaiTrung97 Fan Translation.
 
 *What Include Patch v3.0:
 - Based on Toukiden Kiwami v.1.07 (Japan)
