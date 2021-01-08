@@ -88,15 +88,23 @@ What are the texture packs in the "Lite version"?
 
 By HoaiTrung97 Fan Translation.
 
-*What Include Patch v3.0:
+Staff Team:
+*HoaiTrung97: Small Translate, Hacking.
+*Saramagrean (Benjamin B.Gates): Edit all cutscenes.
+
+Special Thanks:
+*Ace_Ssasin: HD textures.
+*Jam Rules: ASM code.
+*YamiKaze: Script PSV.
+
+What Include Patch v3.0:
 - Based on Toukiden Kiwami v.1.07 (Japan)
-- Game has translated full. (Text in Encyclopedia & Letters can't translate because there are not scripts, but it is texture)
+- Game has translated full. (Text in Encyclopedia & Letters can't translate because there are not scripts, but it's texture)
 - Port from PSV. (All scrpit 100%)
 - Added BGM in game info screen.
 - Improved all cutscene quality. (fix blur & dark & lag in some cutscene.)
 
 Known Bugs:
-
 - On story mode, choice text has hidden. (but u can press skip it - see pics)
 <a href="https://ibb.co/fNJTFyH"><img src="https://i.ibb.co/WzCR5Mf/Bug0-1.png" alt="Bug0-1" border="0"></a>
 <a href="https://ibb.co/z5b6Xrd"><img src="https://i.ibb.co/8B2Yr0k/Bug0-2.png" alt="Bug0-2" border="0"></a>
@@ -104,6 +112,7 @@ Known Bugs:
 <a href="https://ibb.co/hFv23sH"><img src="https://i.ibb.co/MkLPFnp/NPJH50878-00093.png" alt="NPJH50878-00093" border="0"></a>
 <a href="https://ibb.co/Wz3kgtH"><img src="https://i.ibb.co/R6S3zyg/NPJH50878-00092.png" alt="NPJH50878-00092" border="0"></a>
 - Some overflow text still due I still test all game.
+- Sometime noticed invisible weapon & sound BGM not play in first battle, temporary fix by restart game.
 
 • Download English Patch v3.0 (xdelta): https://bit.ly/3aIcxnH
 
